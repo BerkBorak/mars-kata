@@ -1,0 +1,14 @@
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\obj\Debug\netcoreapp2.1\MarsRoverKata.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\obj\Debug\netcoreapp2.1\MarsRoverKata.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\obj\Debug\netcoreapp2.1\MarsRoverKata.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\obj\Debug\netcoreapp2.1\MarsRoverKata.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\bin\Debug\netcoreapp2.1\MarsRoverKata.deps.json
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\bin\Debug\netcoreapp2.1\MarsRoverKata.runtimeconfig.json
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\bin\Debug\netcoreapp2.1\MarsRoverKata.runtimeconfig.dev.json
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\bin\Debug\netcoreapp2.1\MarsRoverKata.dll
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\bin\Debug\netcoreapp2.1\MarsRoverKata.pdb
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\obj\Debug\netcoreapp2.1\MarsRoverKata.dll
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\obj\Debug\netcoreapp2.1\MarsRoverKata.pdb
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\bin\Debug\netcoreapp2.1\RoverEngine.dll
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\bin\Debug\netcoreapp2.1\RoverEngine.pdb
+C:\Users\berk.borak\source\repos\MarsRoverKata\MarsRoverKata\obj\Debug\netcoreapp2.1\MarsRoverKata.csproj.CopyComplete

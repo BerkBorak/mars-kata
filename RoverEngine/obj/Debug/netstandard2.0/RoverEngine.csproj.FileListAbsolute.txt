@@ -1,0 +1,9 @@
+C:\Users\berk.borak\source\repos\MarsRoverKata\RoverEngine\bin\Debug\netstandard2.0\RoverEngine.deps.json
+C:\Users\berk.borak\source\repos\MarsRoverKata\RoverEngine\bin\Debug\netstandard2.0\RoverEngine.dll
+C:\Users\berk.borak\source\repos\MarsRoverKata\RoverEngine\bin\Debug\netstandard2.0\RoverEngine.pdb
+C:\Users\berk.borak\source\repos\MarsRoverKata\RoverEngine\obj\Debug\netstandard2.0\RoverEngine.csprojAssemblyReference.cache
+C:\Users\berk.borak\source\repos\MarsRoverKata\RoverEngine\obj\Debug\netstandard2.0\RoverEngine.csproj.CoreCompileInputs.cache
+C:\Users\berk.borak\source\repos\MarsRoverKata\RoverEngine\obj\Debug\netstandard2.0\RoverEngine.AssemblyInfoInputs.cache
+C:\Users\berk.borak\source\repos\MarsRoverKata\RoverEngine\obj\Debug\netstandard2.0\RoverEngine.AssemblyInfo.cs
+C:\Users\berk.borak\source\repos\MarsRoverKata\RoverEngine\obj\Debug\netstandard2.0\RoverEngine.dll
+C:\Users\berk.borak\source\repos\MarsRoverKata\RoverEngine\obj\Debug\netstandard2.0\RoverEngine.pdb
